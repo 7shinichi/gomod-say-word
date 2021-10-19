@@ -1,5 +1,5 @@
 package gomod_say_word
 
-func SayWord() string {
-	return "Kepak Sayap "
+func SayWord(word string) string {
+	return "Kepak Sayap "+ word
 }
